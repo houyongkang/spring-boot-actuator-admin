@@ -1,4 +1,4 @@
-package com.winterchen;
+package com.yongkang;
 
 import de.codecentric.boot.admin.server.config.AdminServerProperties;
 import de.codecentric.boot.admin.server.config.EnableAdminServer;

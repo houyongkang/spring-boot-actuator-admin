@@ -1,4 +1,4 @@
-package com.winterchen.health;
+package com.yongkang.health;
 
 import org.springframework.boot.actuate.health.AbstractHealthIndicator;
 import org.springframework.boot.actuate.health.Health;
